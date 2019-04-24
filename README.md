@@ -4,10 +4,10 @@ This project is the software of the [ESP32](https://www.espressif.com/en/product
 To get the heading working to a certain pourcentage it is turn on and off.
 ### Commands
   - url not containing '?' returns : { interval: <interval>, duration: <duration> }
-    - "interval" as get parameter set the interval between 2 activation.
-      - "duration" as get parameter set the duration of the activation.
-        - "pourcent" as get parameter set the pourcentage of time activated scaled on 5 mins.
-          - /pourcent get actual pourcentage.
+  - "interval" as get parameter set the interval between 2 activation.
+  - "duration" as get parameter set the duration of the activation.
+  - "pourcent" as get parameter set the pourcentage of time activated scaled on 5 mins.
+  - /pourcent get actual pourcentage.
 
 ### Installation
 
