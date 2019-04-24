@@ -17,6 +17,7 @@ Basically:
 - Set 'IDF_PATH' env variable to the esp-idf path
 - Fulfill python2 requirement.txt dependencies
 - If python is not linked to python2 set 'python2' in menuconfig -> SDK tool configuration
+
 See [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for more info.
 
 Build:
